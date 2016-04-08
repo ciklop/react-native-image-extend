@@ -1,0 +1,7 @@
+build/
+.idea
+example/
+android/build
+*.iml
+*.sublime-workspace
+*.sublime-project

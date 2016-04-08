@@ -1,0 +1,25 @@
+{
+  "name": "react-native-image-extend",
+  "version": "0.0.1",
+  "description": "Experiments with react-native native module",
+  "main": "react-native-image-extend.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Kirill Malovitsa",
+    "email": "ciklop.kirill@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ciklop/react-native-image-extend.git"
+  },
+  "private": true,
+  "nativePackage": true,
+}
